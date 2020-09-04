@@ -9,8 +9,8 @@ The objective of this project is to predict the <strong>stock price sentiment</s
 ## Live Demo
 
 <a href="https://stock-sentiment-prediction.herokuapp.com/">Stock Price Sentiment Predicition</a>
-<!-- 
-  ### Glimpse of the Web App
+
+  <!-- ### Glimpse of the Web App
   <br>
 
   ![GIF](carvaluepred.gif) -->
