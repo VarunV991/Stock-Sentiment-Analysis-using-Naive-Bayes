@@ -1,6 +1,6 @@
 # Stock Price Sentiment Prediction
 
-![Python 3.7](https://img.shields.io/badge/Pyhton-3.6.12-blue) ![Flask](https://img.shields.io/badge/Flask-1.1-orange) ![Heroku](https://img.shields.io/badge/Heroku-Deployment-brightgreen)
+![Python 3.6.12](https://img.shields.io/badge/Pyhton-3.6.12-blue) ![Flask](https://img.shields.io/badge/Flask-1.1-orange) ![Heroku](https://img.shields.io/badge/Heroku-Deployment-brightgreen)
 
 ## Objective
 
