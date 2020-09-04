@@ -5,8 +5,8 @@ import numpy as np
 import joblib
 
 app = Flask(__name__)
-model = joblib.load('model/stock_senti.pkl')
-vectorizer = joblib.load('model/tfidf_vector.pkl')
+model = joblib.load('models/stock_senti.pkl')
+vectorizer = joblib.load('models/tfidf_vector.pkl')
 
 @app.route('/',methods=['GET'])
 def Home():
